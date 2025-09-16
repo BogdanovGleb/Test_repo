@@ -1,1 +1,4 @@
 test text 
+text
+and
+or
